@@ -1,0 +1,6 @@
+titles = [1979, 1983, 1976, 1980]
+
+puts titles[0]
+puts titles[1]
+puts titles[2]
+puts titles[3]

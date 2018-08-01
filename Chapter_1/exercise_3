@@ -1,0 +1,6 @@
+ titles = {Superman: 1979, Tootsie: 1983, Jaws: 1976, StarTrek: 1980}
+
+ puts titles[:Superman]
+ puts titles[:Tootsie]
+ puts titles[:Jaws]
+ puts titles[:StarTrek]
